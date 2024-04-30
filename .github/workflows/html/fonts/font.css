@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+@font-face {
+    font-family:'SCD';
+    src: local('S-CoreDream'),
+         url('scdream4-webfont.woff2') format('woff2'),
+         url('scdream4-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family:'SCD';
+    src: local('S-CoreDream'),
+         url('scdream5-webfont.woff2') format('woff2'),
+         url('scdream5-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family:'SCD';
+    src: local('S-CoreDream'),
+         url('scdream6-webfont.woff2') format('woff2'),
+         url('scdream6-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
